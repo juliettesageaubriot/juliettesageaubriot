@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey, I'm Juliette</h2>
-
+<br/>
 <p>
     <a href="https://github.com/juliettesageaubriot" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@juliettesageaubriot-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/juliette-sageaubriot/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
