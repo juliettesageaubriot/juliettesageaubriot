@@ -1,12 +1,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey, I'm Juliette</h2>
-<br/>
 <p>
     <a href="https://github.com/juliettesageaubriot" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@juliettesageaubriot-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/juliette-sageaubriot/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="https://twitter.com/jsageaubriot" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
 </p>
-
+<br/>
 <ul>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Front-end developer & Creative coder <a href="https://gotoandbuzz.com/" target="_blank">@GOTOANDBUZZ</a></li>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598" width="20"/> <a href="https://www.gobelins.fr/" target="_blank">@Gobelins's</a> student</li>
