@@ -1,8 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey, I'm Juliette</h2>
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliette-sageaubriot/)](https://www.linkedin.com/in/juliette-sageaubriot/) -->
-<!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
-<!-- [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsageaubriot)](https://twitter.com/jsageaubriot)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliette.sage-aubriot@edu.gobelins.fr)](mailto:juliette.sage-aubriot@edu.gobelins.fr) -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+
 <ul>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Front-end developer & Creative coder <a href="https://gotoandbuzz.com/" target="_blank">@GOTOANDBUZZ</a></li>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598" width="20"/> <a href="https://www.gobelins.fr/" target="_blank">@Gobelins's</a> student</li>
@@ -37,6 +35,12 @@
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-cfa0e9?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-cfa0e9?style=flat-square&logo=heroku&logoColor=white" />
 </p>
+
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="20"/> My Github stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=juliettesageaubriot&show_icons=true&theme=material-palenight">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=juliettesageaubriot&theme=material-palenight&date_format=M%20j%5B%2C%20Y%5D">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
 <!--
 examples readme : https://github.com/abhisheknaiidu/awesome-github-profile-readme
