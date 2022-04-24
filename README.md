@@ -4,7 +4,7 @@
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Next" src="https://img.shields.io/badge/-nextdotjs-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Next" src="https://img.shields.io/badge/-Next-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
