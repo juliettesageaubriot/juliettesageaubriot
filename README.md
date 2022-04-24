@@ -2,24 +2,29 @@
 
 <h3>Things I code with</h3>
 <p>
-    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-da70d6?style=flat-square&logo=nextdotjs&logoColor=white" />
-    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-da70d6?style=flat-square&logo=nuxtdotjs&logoColor=white" />
-    <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-da70d6?style=flat-square&logo=threedotjs&logoColor=white" />
-    <img alt="WebGL" src="https://img.shields.io/badge/-WebGL.js-da70d6?style=flat-square&logo=webgl&logoColor=white" />
-    <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-da70d6?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-da70d6?style=flat-square&logo=strapi&logoColor=white" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-da70d6?style=flat-square&logo=graphql&logoColor=white" />
-    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-da70d6?style=flat-square&logo=apollo-graphql&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-da70d6?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-da70d6?style=flat-square&logo=styled-components&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-da70d6?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-da70d6?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="angular" src="https://img.shields.io/badge/-Angular-da70d6?style=flat-square&logo=angular&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-da70d6?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-da70d6?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-da70d6?style=flat-square&logo=d3.js&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-da70d6?style=flat-square&logo=prettier&logoColor=white" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-da70d6?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-cfa0e9?style=flat-square&logo=nextdotjs&logoColor=white" />
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-cfa0e9?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+    <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-cfa0e9?style=flat-square&logo=threedotjs&logoColor=white" />
+    <img alt="WebGL" src="https://img.shields.io/badge/-WebGL.js-cfa0e9?style=flat-square&logo=webgl&logoColor=white" />
+    <img alt="d3js" src="https://img.shields.io/badge/-D3.js-cfa0e9?style=flat-square&logo=d3.js&logoColor=white" />
+    <br/>
+    <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-cfa0e9?style=flat-square&logo=strapi&logoColor=white" />
+    <br />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-cfa0e9?style=flat-square&logo=strapi&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-cfa0e9?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-cfa0e9?style=flat-square&logo=apollo-graphql&logoColor=white" />
+    <br/>
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-cfa0e9?style=flat-square&logo=sass&logoColor=white" />
+    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-cfa0e9?style=flat-square&logo=styled-components&logoColor=white" />
+    <br/>
+    <img alt="html5" src="https://img.shields.io/badge/-HTML5-cfa0e9?style=flat-square&logo=html5&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-cfa0e9?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-cfa0e9?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="yarn" src="https://img.shields.io/badge/-YARN-cfa0e9?style=flat-square&logo=yarn&logoColor=white" />
+    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-cfa0e9?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-cfa0e9?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Github" src="https://img.shields.io/badge/-Github-cfa0e9?style=flat-square&logo=github&logoColor=white" />
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-cfa0e9?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
 <!--
