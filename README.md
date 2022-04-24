@@ -1,8 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="30"/> Hey, I'm Juliette</h2>
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliette-sageaubriot/)](https://www.linkedin.com/in/juliette-sageaubriot/)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliette-sageaubriot/)](https://www.linkedin.com/in/juliette-sageaubriot/) -->
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
-[![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsageaubriot)](https://twitter.com/jsageaubriot)
-[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliette.sage-aubriot@edu.gobelins.fr)](mailto:juliette.sage-aubriot@edu.gobelins.fr)
+<!-- [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsageaubriot)](https://twitter.com/jsageaubriot)
+[![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliette.sage-aubriot@edu.gobelins.fr)](mailto:juliette.sage-aubriot@edu.gobelins.fr) -->
 
 <br/>
 <ul>
