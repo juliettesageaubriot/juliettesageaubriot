@@ -39,6 +39,7 @@
     <img alt="Github" src="https://img.shields.io/badge/-Github-cfa0e9?style=flat-square&logo=github&logoColor=white" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-cfa0e9?style=flat-square&logo=gitlab&logoColor=white" />
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-cfa0e9?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-cfa0e9?style=flat-square&logo=vercel&logoColor=white" />
 </p>
 
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643515259/12806/meow_attention.png?1643515259" width="20"/> My lovely Github stats</h3>
@@ -50,4 +51,5 @@
 <!--
 examples readme : https://github.com/abhisheknaiidu/awesome-github-profile-readme
 for emojies : https://slackmojis.com/
+for cards icons : https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
 -->
