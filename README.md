@@ -1,6 +1,13 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="30"/> Hey, I'm Juliette SAGE--AUBRIOT</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514596/5999/meow_party.gif?1643514596" width="20"/> Hey, I'm Juliette</h2>
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/>Tech Stack</h3>
+<ul>
+<li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Front-end developer & Creative coder <a href="https://gotoandbuzz.com/" target="_blank">@GOTOANDBUZZ</a></li>
+<li><img src="https://emojis.slackmojis.com/emojis/images/1643515230/12484/meow_double_fu.png?1643515230" width="20"/> I'm student <a href="https://www.gobelins.fr/" target="_blank">@Gobelins</a></li>
+<li><img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="20"/> I love cats</li>
+</ul>
+
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="20"/> Tech Stack</h3>
 <p>
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-cfa0e9?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-cfa0e9?style=flat-square&logo=nuxtdotjs&logoColor=white" />
