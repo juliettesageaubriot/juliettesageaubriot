@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, I'm Juliette SAGE--AUBRIOT</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="30"/> Hey, I'm Juliette SAGE--AUBRIOT</h1>
 
-<h3>Tech Stack</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="30"/>Tech Stack</h3>
 <p>
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-cfa0e9?style=flat-square&logo=nextdotjs&logoColor=white" />
     <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-cfa0e9?style=flat-square&logo=nuxtdotjs&logoColor=white" />
