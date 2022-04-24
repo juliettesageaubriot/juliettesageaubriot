@@ -3,15 +3,11 @@
 <!-- [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me) -->
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jsageaubriot)](https://twitter.com/jsageaubriot)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliette.sage-aubriot@edu.gobelins.fr)](mailto:juliette.sage-aubriot@edu.gobelins.fr) -->
-
-<br/>
 <ul>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Front-end developer & Creative coder <a href="https://gotoandbuzz.com/" target="_blank">@GOTOANDBUZZ</a></li>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598" width="20"/> <a href="https://www.gobelins.fr/" target="_blank">@Gobelins's</a> student</li>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="20"/> Cats lover</li>
 </ul>
-
-<br/>
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="20"/> My love tech stack</h3>
 <p>
     <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-cfa0e9?style=flat-square&logo=nextdotjs&logoColor=white" />
