@@ -7,8 +7,8 @@
 </p>
 <br/>
 <ul>
-<li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Front-end developer & Creative coder <a href="https://gotoandbuzz.com/" target="_blank">@GOTOANDBUZZ</a></li>
-<li><img src="https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598" width="20"/> <a href="https://www.gobelins.fr/" target="_blank">@Gobelins's</a> student</li>
+<li><img src="https://emojis.slackmojis.com/emojis/images/1643508877/48815/meow_fr.png?1643508877" width="20"/> French Frontend developer & Creative coder <a href="https://unlikely.technology/" target="_blank">@unlikelystudio</a></li>
+<li><img src="https://emojis.slackmojis.com/emojis/images/1643514598/6021/meow_knife.png?1643514598" width="20"/> <a href="https://www.gobelins.fr/" target="_blank">Alumni @Gobelins's</a></li>
 <li><img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" width="20"/> Cats lover</li>
 </ul>
 <h3><img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="20"/> My lovely tech stack</h3>
