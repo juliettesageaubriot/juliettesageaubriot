@@ -1,5 +1,6 @@
 ### ⚔️ Origins
-- ⚔️ **Frontend developer** forging interactive worlds at <a href="https://unlikely.technology/" target="_blank">@UnlikelyStudio</a>  
+- ⚔️ **Frontend developer** forging interactive worlds at <a href="https://unlikely.technology/" target="_blank">@UnlikelyStudio</a>
+- 🏰 This is my personal lair, but my greatest battles are fought on my professional account: [JulietteSA](https://github.com/JulietteSA)
 - 🖤 **Painter & artist**: I wield brushes like blades, crafting canvases filled with shadows and light  
 - 📚 **Fantasy enthusiast**: you’ll always find a fantasy book by my side, ready to dive into another realm
 - 👩‍🎓 Trained at the guild of <a href="https://www.gobelins.fr/" target="_blank">@Gobelins</a>  
